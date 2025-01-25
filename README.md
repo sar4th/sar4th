@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A software developer by day ☀️ and an open-source dev by night 🌙
+#### I am a software developer by day ☀️ and an open-source dev by night 🌙
 
 Software developer at [Apps team](https://appsteamtechnologies.com/).<br>  
 
