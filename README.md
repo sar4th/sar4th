@@ -6,5 +6,5 @@ Software developer at [Apps team](https://appsteamtechnologies.com/).<br>
 
 - ⚙️ I use daily: `.js`, `.ts`, `.tsx`, `.css`, `.svg`  
 - 🌍 I'm mostly active within the **JS Community**  
-- 🤝 [Connect with me](https://www.linkedin.com/in/sarath-raj-183337339)  
-- 💬 .[Ping me]("mailto:sarathrajkrla@gmail.com")about **design**, **development**  
+🤝 [Connect with me](https://www.linkedin.com/in/sarath-raj-183337339)  
+💬 [Ping me](mailto:sarathrajkrla@gmail.com) about **design**, **development**
