@@ -2,11 +2,10 @@
 ```css
 #sarath {
   position: Bengaluru;
-  height: 171cm;
+  height: 183cm;
   display: engineer;
   background: "Breaking things to understand them";
-  color: coffee;
-
+  color: "";
   stack: React Next.js TypeScript Node.js;
   hobbies: rendering-engines databases auth developer-tools;
   currently: rewriting-production-systems;
