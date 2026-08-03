@@ -1,19 +1,19 @@
-# Hey, I'm Sarath 👋
+# Sarath
 
-Frontend-heavy Full Stack Engineer focused on building and modernizing production systems using React, Next.js, TypeScript, and Node.js.
+ Engineer who keeps disappearing into compiler videos and ends up building frameworks instead of using them.
 
-Recently worked on rewriting a 4-year-old banking platform , improving frontend architecture, performance, and production stability while delivering the migration in 6 months.
+Currently working with **React**, **Next.js**, **TypeScript**, and **Node.js**.
 
-I enjoy building systems beyond typical product work, including:
+When I'm bored, I build weird stuff:
 
-* ⚡ Lightweight React-like rendering engines
-* 🗄️ In-memory database engines
-* 🧩 Reusable authentication & frontend tooling
-* 🚀 Production-ready full stack applications
+- Rendering engines
+- Databases
+- Auth systems
+- Developer tools
 
-### Tech I work with
+> If it has abstractions, I'll probably try rebuilding them.
 
-React • Next.js • TypeScript • Node.js • PostgreSQL • MongoDB • Redis • Docker
+---
 
-🌍 github.com/sar4th
-🤝 linkedin.com/in/sarath-raj-183337339
+**GitHub:** https://github.com/sar4th
+```
